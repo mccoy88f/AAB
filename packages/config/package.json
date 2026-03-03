@@ -1,0 +1,9 @@
+{
+  "name": "@aab/config",
+  "version": "0.1.0",
+  "private": true,
+  "exports": {
+    "./tailwind": "./tailwind.config.js",
+    "./tsconfig": "./tsconfig.base.json"
+  }
+}

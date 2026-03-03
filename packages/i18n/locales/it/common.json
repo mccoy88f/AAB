@@ -1,0 +1,6 @@
+{
+  "app": { "name": "AAB", "tagline": "La tua app ovunque" },
+  "nav": { "dashboard": "Dashboard", "settings": "Impostazioni", "profile": "Profilo", "logout": "Esci" },
+  "actions": { "save": "Salva", "cancel": "Annulla", "delete": "Elimina", "confirm": "Conferma", "back": "Indietro", "close": "Chiudi", "edit": "Modifica", "create": "Crea", "loading": "Caricamento..." },
+  "errors": { "network": "Errore di rete. Controlla la connessione.", "generic": "Qualcosa è andato storto. Riprova.", "unauthorized": "Sessione scaduta. Effettua di nuovo il login.", "not_found": "Risorsa non trovata.", "forbidden": "Non hai i permessi per questa azione." }
+}

@@ -1,0 +1,6 @@
+{
+  "app": { "name": "AAB", "tagline": "Your app, anywhere" },
+  "nav": { "dashboard": "Dashboard", "settings": "Settings", "profile": "Profile", "logout": "Log out" },
+  "actions": { "save": "Save", "cancel": "Cancel", "delete": "Delete", "confirm": "Confirm", "back": "Back", "close": "Close", "edit": "Edit", "create": "Create", "loading": "Loading..." },
+  "errors": { "network": "Network error. Check your connection.", "generic": "Something went wrong. Please try again.", "unauthorized": "Session expired. Please log in again.", "not_found": "Resource not found.", "forbidden": "You don't have permission for this action." }
+}

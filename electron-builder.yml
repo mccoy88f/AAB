@@ -1,0 +1,25 @@
+appId: com.aab.desktop
+productName: AAB
+directories:
+  output: release
+files:
+  - dist/**/*
+  - renderer/**/*
+  - node_modules/**/*
+  - package.json
+mac:
+  category: public.app-category.productivity
+  target:
+    - target: dmg
+    - target: zip
+win:
+  target:
+    - target: nsis
+    - target: portable
+linux:
+  target:
+    - target: AppImage
+    - target: deb
+publish:
+  provider: github
+  releaseType: release
